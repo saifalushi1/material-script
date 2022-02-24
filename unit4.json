@@ -1,0 +1,21 @@
+[
+    "git@git.generalassemb.ly:seir-1213/code-every-day.git",
+    "git@git.generalassemb.ly:seir-1213/sql-intro.git",
+    "git@git.generalassemb.ly:seir-1213/sql-lab.git",
+    "git@git.generalassemb.ly:seir-1213/python-warm-up.git",
+    "git@git.generalassemb.ly:seir-1213/intro-to-python.git",
+    "git@git.generalassemb.ly:seir-1213/python-state-capitals.git",
+    "git@git.generalassemb.ly:seir-1213/intro-python-challenge.git",
+    "git@git.generalassemb.ly:seir-1213/python-koans.git",
+    "git@git.generalassemb.ly:seir-1213/python-oop.git",
+    "git@git.generalassemb.ly:seir-1213/codebar.git",
+    "git@git.generalassemb.ly:seir-1213/django-api-lab.git",
+    "git@git.generalassemb.ly:seir-1213/django-models.git",
+    "git@git.generalassemb.ly:seir-1213/django-rest-framework.git",
+    "git@git.generalassemb.ly:seir-1213/scribble.git",
+    "git@git.generalassemb.ly:seir-1213/python-mini-project.git",
+    "git@git.generalassemb.ly:seir-1213/heroku-django-deployment.git",
+    "git@git.generalassemb.ly:seir-1213/drf-token-auth.git",
+    "git@git.generalassemb.ly:seir-1213/aws-s3-setup-guide.git",
+    "git@git.generalassemb.ly:seir-1213/django-file-uploads.git"
+]
