@@ -1,6 +1,6 @@
 //Import the execSync method from child_process module
 const execSync = require('child_process').execSync;
-//Import our json file that contains all of our urls 
+//Import our json files that contains all of our urls 
 const unit1Array = require("./unit1.json")
 const unit2Array = require("./unit2.json")
 const unit3Array = require("./unit3.json")
@@ -38,7 +38,12 @@ const unit4 = () => {
     }
 }
 
+//To run this script type "node cliScript.js" in your terminal ***BUT***
+//Do note that this will clone every repo into this folder.
+//If you would like to break the repos up into units 
+//I suggest you make seperate folders and copy over the code as needed
 unit1()
 unit2()
 unit3()
 unit4()
+
