@@ -9,7 +9,7 @@ Could I have used a python script to scrape that information for me? Yes... but 
 OK OK enough backstory how does this work??
 
 The script uses a module called <code>child_proccess</code> and from that module we use a method called <code>execSync</code>
-"execSync" is a method that allows us to run CLI commands only after the previous command has finished. Which in our case since we are doing a git clone works out great!
+"execSync" is a method that allows us to run CLI commands only after the previous command has finished. Which works out in our case since we are only using git clone.
 
 I Also included some python starter code if you are up for a little challenge and want to give it a shot on your own.
 
